@@ -1,0 +1,18 @@
+{
+  "name": "convertimages",
+  "version": "1.0.0",
+  "description": "Convert Images to Thumbnails And Videos to mp4",
+  "main": "/src/index.js",
+  "scripts": {
+    "start": "tsc && node 'dist/index.js'",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  },
+  "devDependencies": {
+    "@types/node": "^10.12.3"
+  }
+}
