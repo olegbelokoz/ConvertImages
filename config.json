@@ -1,6 +1,6 @@
 {
-    "picturesFolder" : "/home/oleg/Pictures/Years/",
-    "videosFolder" : "home/oleg/Videos/Years",
-    "wwwFolder" : "home/oleg/SoftwareChicken/Pics",
+    "picturesFolder" : "/home/oleg/Pictures/",
+    "videosFolder" : "/home/oleg/Videos/",
+    "wwwFolder" : "/home/oleg/SoftwareChicken/Pics/",
     "thumbWidth" : 200
 }

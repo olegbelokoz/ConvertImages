@@ -10,7 +10,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "fs": "^0.0.1-security"
+    "fs": "^0.0.1-security",
+    "inversify": "^5.0.1",
+    "inversify-binding-decorators": "^4.0.0",
+    "reflect-metadata": "^0.1.12"
   },
   "devDependencies": {
     "@types/node": "^10.12.3"
